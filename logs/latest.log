@@ -1,0 +1,13 @@
+[00:19:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=231, y=58, z=-51} fx{x=231, y=57, z=-51}
+[00:19:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=231, y=58, z=-51} fx{x=231, y=57, z=-51}
+[00:20:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=260, y=61, z=-47} fx{x=260, y=60, z=-47}
+[00:20:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=260, y=61, z=-47} fx{x=260, y=60, z=-47}
+[00:20:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10492, l='ServerLevel[world]', x=205.97, y=62.22, z=-54.07]
+[00:21:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=271, y=56, z=47} fx{x=271, y=57, z=47}
+[00:21:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=271, y=56, z=47} fx{x=271, y=57, z=47}
+[00:21:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=253, y=53, z=60} fx{x=253, y=54, z=60}
+[00:22:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=262, y=56, z=91} fx{x=262, y=55, z=90}
+[00:43:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16639, l='ServerLevel[world]', x=314.22, y=67.00, z=-19.34]
+[00:53:22] [Server thread/INFO]: CraftyMantis lost connection: Disconnected
+[00:53:22] [Server thread/INFO]: CraftyMantis left the game
+[14:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33861172ms or 677223 ticks behind
